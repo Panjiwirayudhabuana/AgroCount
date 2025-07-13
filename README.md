@@ -69,9 +69,6 @@ python main.py
 - Password saat login dan registrasi tidak terlihat (menggunakan `getpass`)
 - Semua perubahan data langsung disimpan ke file `.csv`
 
-## 🧾 Skema Sistem
-
-![Skema](skema/skema.png)
 
 ## 🗂️ Referensi File CSV
 
